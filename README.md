@@ -1,5 +1,10 @@
 ## Projeto e Tecnologia na Industria da Construção Civil
 
+
+Você pode verificar o DCC da disciplina aqui: [DCC - Projeto e Tecnologia na Industria da construção civil] (https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Documentos%20da%20disciplina/DCC%20-%20Projeto%20e%20Tecnologia%20na%20Industria%20da%20Construção.pdf)
+
+
+_____
 You can use the [editor on GitHub](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
