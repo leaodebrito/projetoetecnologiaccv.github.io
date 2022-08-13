@@ -6,7 +6,7 @@ Você pode verificar as competências e os conteúdos formativos que serão dese
 _____
 
 ## Aulas
-[Aula 1](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula1.md)
+[Aula 1 - Apresentação da Disciplina](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula1.md)
 
 
 _____
