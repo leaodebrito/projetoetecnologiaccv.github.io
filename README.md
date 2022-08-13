@@ -1,7 +1,8 @@
 ## Projeto e Tecnologia na Industria da Construção Civil
 
 
-Você pode verificar o DCC da disciplina aqui: [DCC - Projeto e Tecnologia na Industria da construção civil] (https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Documentos%20da%20disciplina/DCC%20-%20Projeto%20e%20Tecnologia%20na%20Industria%20da%20Construção.pdf)
+Você pode verificar o que será apresentado na disciplina através do [DCC](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Documentos%20da%20disciplina/DCC%20-%20Projeto%20e%20Tecnologia%20na%20Industria%20da%20Construção.pdf)
+
 
 
 _____
