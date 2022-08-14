@@ -222,5 +222,7 @@ Do ponto de vista teórico, [Oxman](https://www.researchgate.net/publication/233
 ### Referências complementares
 
 [Projeto performativo na prática arquitetônica recente: Categorias e características](https://vitruvius.com.br/revistas/read/arquitextos/13.150/4587)
+
 [PROPOSTA DE MÉTODO DE PROJETO PERFORMATIVO PARA EDIFÍCIOS ENERGETICAMENTE EFICIENTES](https://lpp.ufes.br/proposta-de-metodo-de-projeto-performativo-para-edificios-energeticamente-eficientes)
+
 [ENSAIO DE PROJETO PERFORMATIVO PARA PAVILHÃO](http://www.nomads.usp.br/virus/virus19/?sec=7&item=1&lang=pt)
