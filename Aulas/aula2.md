@@ -6,7 +6,7 @@ Justamente por isso, neste encontro vou apresentar para vocês o significado de 
 
 Vamos lá...
 
-##Conceitos
+## Conceitos
 
 Esses são os conceitos que eu estarei apresentando para vocês:
 
@@ -30,6 +30,7 @@ Esses são os conceitos que eu estarei apresentando para vocês:
 18. Canteiro Híbrido
 19. Complexidade
 
+_____
 
 ## Projeto
 
@@ -37,7 +38,7 @@ No dicionário existem diversos significados para essa palavra, entre eles:
 ```
 Projeto é uma vontade, desejo ou intenção de realizar algo!
 ```
-No entanto, uma definição menos romantizada sobre projeto deve ser posta. Justamente por isso o PMBOK (maior guia de gestão de projetos da atualidade) fala que **um projeto é um esforço temporário que tem como finalidade um resuldato único e possui recursos delimitados**
+No entanto, uma definição menos romantizada sobre projeto deve ser posta. Justamente por isso o PMBOK (maior guia de gestão de projetos da atualidade) fala que **um projeto é um esforço temporário que tem como finalidade um resultado único e possui recursos delimitados**
 
 ![Projeto](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula2/Projeto.png?raw=true)
 
@@ -48,4 +49,31 @@ Além disso, um pojeto pode ser classificado como um projeto Social, Cultural, d
 
 [O que é um projeto? Descubra o conceito, os principais tipos e a diferença entre processo](https://artia.com/blog/o-que-e-um-projeto/)
 
+
+
 ## Tecnologia
+
+Tecnologia pode ser entendida como o **conjunto de técnicas, habilidade, métodos e processos** usados na produção de **bens ou serviços, ou na realização de objetivos**. Ou seja, tecnologia é um produto da ciência e da engenharia que envolve um conjunto de instrumentos, métodos e técnicas que visam a resolução de um problemas.
+
+```
+É uma aplicação prática do conhecimento científico em diversas áreas de pesquisa
+```
+
+A palavra tecnologia tem origem no grego "tekhne" que significa "técnica, arte, ofício" juntamente com o sufixo "logia" que significa "estudo".
+
+
+## Digital
+
+**Colocar imagem de digital**
+
+
+## TIC (Tecnologia de Informação e Comunicação)
+
+Para compreender a TIC é necessário compreender as tecnologias que interferem e mediam os processos informacionais de comunicação
+
+**Colocar imagem de TIC**
+
+
+## BIM (Building Information Modeling)
+ 
+ ** colocar imagem de BIM**
