@@ -3,9 +3,11 @@
 Nesta disciplina serão abordados meios de planejamento de processos para projetos da construção com uso de tecnologias de informação e como a construção vem se adaptando no contexto da revolução industrial. Serão discutidas possibilidades de organização de equipes multidisciplinares e estado da arte de tecnologias e sistemas de informação.
 
 Você pode verificar as competências e os conteúdos formativos que serão desenvolvidos na disciplina através do [DCC](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Documentos%20da%20disciplina/DCC%20-%20Projeto%20e%20Tecnologia%20na%20Industria%20da%20Construção.pdf)
+
 _____
 ##Docente
 Prof. Bruno Leão | bruno.brito@fieb.org.br
+
 _____
 
 ## Aulas
@@ -15,6 +17,10 @@ _____
 
 _____
 
+## Editais
+
+Em construção...
+_____
 
 ```markdown
 Syntax highlighted code block
