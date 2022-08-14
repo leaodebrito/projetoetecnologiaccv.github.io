@@ -64,16 +64,16 @@ A palavra tecnologia tem origem no grego "tekhne" que significa "técnica, arte,
 
 ## Digital
 
-**Colocar imagem de digital**
+![Digital](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula2/digital.png?raw=true)
 
 
 ## TIC (Tecnologia de Informação e Comunicação)
 
 Para compreender a TIC é necessário compreender as tecnologias que interferem e mediam os processos informacionais de comunicação
 
-**Colocar imagem de TIC**
+![TIC](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula2/TIC.png?raw=true)
 
 
 ## BIM (Building Information Modeling)
  
- ** colocar imagem de BIM**
+ ![BIM](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula2/BIM.png?raw=true)
