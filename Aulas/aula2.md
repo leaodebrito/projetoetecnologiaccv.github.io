@@ -39,12 +39,13 @@ Projeto é uma vontade, desejo ou intenção de realizar algo!
 ```
 No entanto, uma definição menos romantizada sobre projeto deve ser posta. Justamente por isso o PMBOK (maior guia de gestão de projetos da atualidade) fala que **um projeto é um esforço temporário que tem como finalidade um resuldato único e possui recursos delimitados**
 
-_**Imagem de projeto**_
+![Projeto](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula2/Projeto.png?raw=true)
 
 Além disso, um pojeto pode ser classificado como um projeto Social, Cultural, de Pesquisa, Empresarial e Pessoal
 
 ### Algumas Referências complementares
 [O que é um projeto? Entenda sua definição e utilidade](https://www.euax.com.br/2018/08/o-que-e-um-projeto/)
+
 [O que é um projeto? Descubra o conceito, os principais tipos e a diferença entre processo](https://artia.com/blog/o-que-e-um-projeto/)
 
 ## Tecnologia
