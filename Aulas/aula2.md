@@ -243,4 +243,4 @@ Nomenclatura
 5. Fabricação Digital
 6. Prototipagem digital
 
-**IMAGEM DE FD**
+![Fabricação](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula2/FD.png?raw=true)
