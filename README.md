@@ -7,6 +7,7 @@ _____
 
 ## Aulas
 [Aula 1 - Apresentação da Disciplina](./Aulas/aula1.md)
+
 [Aula 2 - Nivelamento de conceitos](./Aulas/aula2.md)
 
 _____
