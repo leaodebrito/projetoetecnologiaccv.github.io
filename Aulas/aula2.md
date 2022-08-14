@@ -21,10 +21,7 @@ Esses são os conceitos que eu estarei apresentando para vocês:
 9. Simulação
 10. Projeto Performativo
 11. Fabricação digital
-12. Desmaterialização
-13. CNC
-14. Canteiro Híbrido
-15. Complexidade
+12. Complexidade
 
 _____
 
@@ -226,3 +223,24 @@ Do ponto de vista teórico, [Oxman](https://www.researchgate.net/publication/233
 [PROPOSTA DE MÉTODO DE PROJETO PERFORMATIVO PARA EDIFÍCIOS ENERGETICAMENTE EFICIENTES](https://lpp.ufes.br/proposta-de-metodo-de-projeto-performativo-para-edificios-energeticamente-eficientes)
 
 [ENSAIO DE PROJETO PERFORMATIVO PARA PAVILHÃO](http://www.nomads.usp.br/virus/virus19/?sec=7&item=1&lang=pt)
+
+
+_____
+
+
+
+## Fabricação Digital
+
+A fabricação digital refere-se às tecnologia CNC (máquinas de controle numérico) sugerindo a transferência de dados de um modelo digital para uma máquina visando a fabricação direta de elementos construtivos a serem enviados para a obra, formas para concretagem ou ainda protóripos em escala real.
+
+Apesar da grande aplicação da fabricação digital em outras industrias, na construção civil ainda se mostra incipiente. No entanto, nos últimos anos o número de grupos de pesquisa e escritórios que estão dispostos a aprofundar conhecimentos na técnica de fabricação digital
+
+Nomenclatura
+1. Prototipagem rápida
+2. Ferramental rápido
+3. Fabricação rápida
+4. Manufatura rápida
+5. Fabricação Digital
+6. Prototipagem digital
+
+**IMAGEM DE FD**
