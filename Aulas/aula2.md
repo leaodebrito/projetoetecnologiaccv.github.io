@@ -161,7 +161,7 @@ A interoperabilidade acaba por ser uma condição crítica e necessária para a 
 
 Através do IFC, a _buildingSMART_ tem como objetivo geral **desenvolver um padrão de intercâmbio e compartilhamento de dados orientado a objetos constituídos por ambientes e edificações virtuais modelados de acordo com uma estrutura de descrição de dados que define uma nomemclatura de classificação de serviços e objetos, universalizada nos códigos de todos os aplicativos que trabalhem com tecnologias BIM.**
 
-"[Interoperabilidade](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula2/interoperabilidade.png?raw=true)
+![Interoperabilidade](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula2/interoperabilidade.png?raw=true)
 
 
 ### algumas referência complementares
