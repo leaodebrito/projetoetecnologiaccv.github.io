@@ -19,11 +19,12 @@ Competências Específicas:
 ## Sistemas de Avaliações
 Nesta disciplina existirão quatro avaliações AV1, AV2, AV3 e EDAG.Cada uma delas com seu respectivo peso e consequente participação na média final da disciplina. As avaliações acontecerão segundo edital específico e seguindo as seguintes datas:
 
-1. AV1 - 19 de setembro
-2. AV2 - 31 de outubro
-3. AV3 - 05 de dezembro
+1. AV1 - 19 de setembro - 25% da nota
+2. AV2 - 31 de outubro - 25% da nota
+3. AV3 - 05 de dezembro - 30% da nota
+4. EDAG - XX de novembro - 20% da nota
 
-Se o(a) estudante faltar em alguma destas avaliações, poderá realizar a **segunda chamada unificada no dia 12/12 as 8h**
+Se o(a) estudante faltar em alguma destas avaliações, poderá realizar a **segunda chamada unificada no dia 12/12 as 8h** desde que respeite as restrições específicas para realização da prova. Além disso, esta avaliação unificada irá cobrar todo conteúdo formativo que foi apresentado ao longo do semestre.
 
 ## Cronograma de aulas
 Nossa disciplina seguirá o cronograma abaixo.
