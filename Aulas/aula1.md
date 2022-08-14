@@ -32,5 +32,5 @@ Nossa disciplina seguirá o cronograma abaixo.
 **COLOCAR IMAGEM DO CRONOGRAMA**
 
 ## Minha Biblioteca
-Você pode verificar o [Acervo](https://bit.ly/BibSENAI) que pode ser verificado on-line. Além disso é possível fazer [Reservas e Renovações](https://bit.ly/PergamunFIEB)
+Você pode verificar o [Acervo](https://bit.ly/BibSENAI)  do CIMATEC através da internet. Além disso é possível fazer [Reservas e Renovações](https://bit.ly/PergamunFIEB)
 
