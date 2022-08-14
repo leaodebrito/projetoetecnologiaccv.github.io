@@ -29,7 +29,7 @@ Se o(a) estudante faltar em alguma destas avaliações, poderá realizar a **seg
 ## Cronograma de aulas
 Nossa disciplina seguirá o cronograma abaixo.
 
-**COLOCAR IMAGEM DO CRONOGRAMA**
+![Planejamento](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula1/planejamento.jpg?raw=true)
 
 ## Minha Biblioteca
 Você pode verificar o [Acervo](https://bit.ly/BibSENAI)  do CIMATEC através da internet. Além disso é possível fazer [Reservas e Renovações](https://bit.ly/PergamunFIEB)
