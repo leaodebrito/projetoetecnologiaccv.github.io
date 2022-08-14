@@ -5,11 +5,15 @@ Nesta disciplina serão abordados meios de planejamento de processos para projet
 Você pode verificar as competências e os conteúdos formativos que serão desenvolvidos na disciplina através do [DCC](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Documentos%20da%20disciplina/DCC%20-%20Projeto%20e%20Tecnologia%20na%20Industria%20da%20Construção.pdf)
 
 _____
+
+
 ## Docente
 
 Prof. Bruno Leão | bruno.brito@fieb.org.br
 
 _____
+
+
 
 ## Aulas
 [Aula 1 - Apresentação da Disciplina](./Aulas/aula1.md)
@@ -18,27 +22,13 @@ _____
 
 _____
 
+
+
 ## Editais
 
 Em construção...
+
 _____
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 
