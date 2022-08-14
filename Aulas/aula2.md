@@ -21,7 +21,6 @@ Esses são os conceitos que eu estarei apresentando para vocês:
 9. Simulação
 10. Projeto Performativo
 11. Fabricação digital
-12. Complexidade
 
 _____
 
@@ -139,7 +138,7 @@ Significa trabalhar com outras pessoas com objetivos comuns para que a
 tentativa da equipe para encontrar soluções satisfaçam a todos os interessados...
 ```
 
- ### Referências
+### Referências
  
  KÓS, José Ripper. Projeto Colaborativo. In: BRAIDA, Frederico. **101 conceitos de arquitetura e urbanismo na era digital**. São Paulo: Pro Books, 2016. Cap. 75. p. 158-159.
 
@@ -167,7 +166,7 @@ Através do IFC, a _buildingSMART_ tem como objetivo geral **desenvolver um padr
 [guia Básico IFC](https://www.sie.sc.gov.br/webdocs/sie/doc-tecnicos/labim/Guia%20Básico%20de%20IFC.pdf)
 
 
- ### Referências
+### Referências
  
  NARDELLI, Eduardo Sampaio. Interoperabilidade. In: BRAIDA, Frederico. **101 conceitos de arquitetura e urbanismo na era digital**. São Paulo: Pro Books, 2016. Cap. 57. p. 126-127.
 
@@ -211,7 +210,8 @@ O projeto performativo caracteriza-se por:
 
 Do ponto de vista teórico, [Oxman](https://www.researchgate.net/publication/233713113_A_Performance-based_Model_in_Digital_Design_PER-FORMATIVE_-_Design_Beyond_Aesthetic) mostra que o projeto performativo resulta em uma mudança do processo de projeto de uma simulação analítica para uma simulação para síntese e geração. Esta mudança é muito significativa, pois **ao invés de analisar o desempenho de um edifício e modificar, de acordo com os resultados, a simulação baseada no desempenho pode instruir mecanismos de otimização para modificar ou gerar diretamente a forma.
 
- ### Referências
+
+### Referências
  
  ANDRADE, MAx. Projeto Performativo. In: BRAIDA, Frederico. **101 conceitos de arquitetura e urbanismo na era digital**. São Paulo: Pro Books, 2016. Cap. 77. p. 162-163.
  
