@@ -7,7 +7,7 @@ _____
 
 ## Aulas
 [Aula 1 - Apresentação da Disciplina](./Aulas/aula1.md)
-
+[Aula 2 - Nivelamento de conceitos](./Aulas/aula2.md)
 
 _____
 You can use the [editor on GitHub](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
