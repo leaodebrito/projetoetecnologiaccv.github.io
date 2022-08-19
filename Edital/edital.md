@@ -12,6 +12,16 @@ Proposta formal de implantação tecnológica com indicação de fluxos de traba
 
 ## Competências a serem desenvolvidas
 
+### Competências gerais
+1. Conhecimentos Específicos de Engenharia e Arquitetura 
+2. Pensamento Sistêmico 
+3. Compartilhar Conhecimento 
+4. Comunicação 
+
+### Competências gerais
+1. Entender os conceitos relativos as tecnologias digitais na indústria da construção
+2. Analisar cenários e usos de tecnologias digitais nos processos da construção
+3. Analisar aplicações de tecnologias de manufatura na indústria da construção
 
 
 ## Etapas do trabalhos
@@ -34,7 +44,31 @@ Nesta etapa será realizado o desenvolvimento da solução para o problema propo
 
 
 ### AV3
-Nesta etapa será apresentado a solução final para o problema do cliente identificado na primeira etapa do trabalho. Esta solução final deverar contar com um detalhamento da solução, o custo de implementação e as fases de implementação 
+Nesta etapa será apresentado a solução final para o problema do cliente identificado na primeira etapa do trabalho. Esta solução final deverar contar com um **detalhamento da solução**, **o custo de implementação** e as **fases de implementação**. 
+
+1. **Entregáveis**: Apresentação do trabalho, relatório técnico apresentando o detalhamento da implementação
+2. **Data da Entrega**: 5/12/2022
+
+
+## Clientes
+
+Os clientes para este trabalho são:
+1. LEMC - Laboratório de Engenharia de Materiais de Construção
+    Contato: Moisés Ferreira
+    
+2. LEDE - Laboratório de Estruturas e Desempenho das Edificações
+    Contato: Marianna Luna
+
+3.
+
+
+4.
+
 
 ## Processo de Avaliação
-As etapas do trabalho acima descritas serão avaliados conforme barema específico.
+As etapas do trabalho acima descritas serão avaliados conforme barema específico. No entanto, a nota será dividida entre a avaliação do Docente que valerá a 70% da nota e a autoavaliação da equipe que valerá 30% da nota. 
+
+[Barema de Avaliação do docente](...) *Em construção...*
+[Barema de Avaliação do discente](...) *Em construção...*
+
+
