@@ -6,6 +6,7 @@ Justamente por isso, neste encontro vou apresentar para vocês o significado de 
 
 Vamos lá...
 
+
 ## Conceitos
 
 Esses são os conceitos que eu estarei apresentando para vocês:
@@ -244,3 +245,16 @@ Nomenclatura
 6. Prototipagem digital
 
 ![Fabricação](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula2/FD.png?raw=true)
+
+
+
+_____
+
+
+# Mantido e desenvolvido por
+
+MsC. Bruno Leão
+Arquiteto e Urbanista
+Mestre e Doutorando
+
+Atualização: 19/08/2022
