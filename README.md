@@ -27,9 +27,7 @@ _____
 
 
 ## Editais
-
-Em construção...
-
+[Edital de trabalho](./Edital/edital.md)
 
 _____
 
