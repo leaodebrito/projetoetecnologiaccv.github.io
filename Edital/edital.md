@@ -30,7 +30,7 @@ A seguir serão apresentadas as etapas de desenvolvimento e entrega do trabalho
 
 
 ### AV1
-Nesta etapa serão desenvolvidos estudos informacionais por parte do grupo de estudantes. Esses estudos incluem a **caracterização do cliente**, **a identificação do problema do cliente** e a **proposição de solução para o problema do cliente** através da apresentação de uma rota tecnológica.
+Nesta etapa serão desenvolvidos estudos informacionais pelo grupo de estudantes. Esses estudos incluem a **caracterização do cliente**, **a identificação do problema do cliente** e a **proposição de solução para o problema do cliente** através da apresentação de uma possível rota tecnológica.
 
 1. **Entregáveis**: Apresentação do trabalho, relatório técnico apresentando a caracterização do cliente, o problema do cliente e a proposta de solução para o problema.
 2. **Data da Entrega**: 19/09/2022
@@ -59,10 +59,10 @@ Os clientes para este trabalho são:
 2. LEDE - Laboratório de Estruturas e Desempenho das Edificações
     Contato: Marianna Luna
 
-3.
+3. (em definição...)
 
 
-4.
+4. (em definição...)
 
 
 ## Processo de Avaliação
