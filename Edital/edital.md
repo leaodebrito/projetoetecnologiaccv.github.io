@@ -1,4 +1,4 @@
-# Edital de trabalho
+# Edital do trabalho
 
 Através deste será apresentado o processo de avaliação da disciplina Projeto e Tecnologia na Industria da Construção Civil que está sendo ofertada no semestre letivo de 2022.2 do Centro Universitário SENAI CIMATEC.
 
@@ -18,7 +18,7 @@ Proposta formal de implantação tecnológica com indicação de fluxos de traba
 3. Compartilhar Conhecimento 
 4. Comunicação 
 
-### Competências gerais
+### Competências especificas
 1. Entender os conceitos relativos as tecnologias digitais na indústria da construção
 2. Analisar cenários e usos de tecnologias digitais nos processos da construção
 3. Analisar aplicações de tecnologias de manufatura na indústria da construção
@@ -54,9 +54,11 @@ Nesta etapa será apresentado a solução final para o problema do cliente ident
 
 Os clientes para este trabalho são:
 1. LEMC - Laboratório de Engenharia de Materiais de Construção
+    
     Contato: Moisés Ferreira
     
 2. LEDE - Laboratório de Estruturas e Desempenho das Edificações
+    
     Contato: Marianna Luna
 
 3. (em definição...)
@@ -69,7 +71,9 @@ Os clientes para este trabalho são:
 As etapas do trabalho acima descritas serão avaliados conforme barema específico. No entanto, a nota será dividida entre a avaliação do Docente que valerá a 70% da nota e a autoavaliação da equipe que valerá 30% da nota. 
 
 [Barema de Avaliação do docente](...) *Em construção...*
-
 [Barema de Avaliação do discente](...) *Em construção...*
 
 
+# Docente
+Prof. Bruno Leão
+atualização: 19/08/2022
