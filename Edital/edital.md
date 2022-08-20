@@ -70,8 +70,7 @@ Os clientes para este trabalho são:
 ## Processo de Avaliação
 As etapas do trabalho acima descritas serão avaliados conforme barema específico. No entanto, a nota será dividida entre a avaliação do Docente que valerá a 70% da nota e a autoavaliação da equipe que valerá 30% da nota. 
 
-[Barema de Avaliação do docente](...) *Em construção...*
-[Barema de Avaliação do discente](...) *Em construção...*
+[Barema de Avaliação do docente](https://1drv.ms/x/s!ArYZgf9-13_GgbtQNf_39aEqIsSzWA?e=K7meqB)
 
 
 # Docente
