@@ -82,6 +82,8 @@ Com isso, uma hipótese pode ser levantada. **Se a formação dos nossos profiss
 
 Um exemplo interessante disso, é o [Pavilhão de Pesquisa ICD/ITKE 2014-15 / ICD / ITKE Universidade de Stuttgart](https://www.archdaily.com.br/br/794506/pavilhao-de-pesquisa-icd-itke-2014-15-icd-itke-universidade-de-stuttgart)
 
+![ICD]()
+
 ```
 O trabalho teve início com a participação
 de um biólogo, que descreveu como um determinado tipo de aranha
