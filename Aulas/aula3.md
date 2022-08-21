@@ -8,14 +8,14 @@ Neste encontro vou apresentar brevemente, e ainda me maneira um pouco superficia
 
 A Arquitetura e Urbanismo viveram momentos de glória no século XX:
 
-1. Criamos (projetamos e construimos) uma (cidade toda planejada)[https://pt.wikipedia.org/wiki/Bras%C3%ADlia]
+1. Criamos, projetamos e construimos uma (cidade toda planejada)[https://pt.wikipedia.org/wiki/Bras%C3%ADlia]
 2. Nossos edifícios foram expostos como obras de arte
-!(Ministério da Saúde e Educação)[]
+!(Ministério da Saúde e Educação)[https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula3/MSE.jpg?raw=true]
 Ministério da Saúde e Educação - Oscar Niemeyr e Lucio Costa (1936)
-!(Organização das Nações Unidas)[]
+!(Organização das Nações Unidas)[https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula3/ONU.jpg?raw=true]
 Organização das Nações Unidas - Oscar Niemeyer e Le Corbusier (1952)
-!(Museu de Arte Contemporânea)[]
-Museu de Arte Contemporânea - scar Niemeyer (1966)
+!(Museu de Arte Contemporânea)[https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula3/MAC.jpg?raw=true]
+Museu de Arte Contemporânea - Oscar Niemeyer (1966)
 3. Tivemos dois arquitetos receberam o (Prêmio Pritzker)[https://www.pritzkerprize.com]
 4. O renomado Engenheiro Estruturalista (Recifense) (Joaquim Cardoso)[https://www.archdaily.com.br/br/963209/joaquim-cardozo-o-engenheiro-poeta-que-ergueu-as-maiores-obras-de-oscar-niemeyer] que ajudou a erguer diversas obras modernistas
 
