@@ -20,7 +20,7 @@ _____
 
 [Aula 2 - Nivelamento de conceitos](./Aulas/aula2.md)
 
-[Aula 3 - Uma nova era para a construção civil]
+[Aula 3 - Uma nova era para a construção civil](./Aulas/aula3.md)
 
 _____
 
