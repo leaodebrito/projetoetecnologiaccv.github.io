@@ -47,11 +47,11 @@ Em muitos segmentos da industria, acabamos por continuar dependentes daquilo que
 
 1. Na construção da **Arena das Dunas**, construída em Natal para a Copa do Mundo de 2014, por exemplo, tivemos de importar da Alemanha partes da cobertura metálica que possuíam [dupla curvatura](https://www.archdaily.com.br/br/895363/cascas-de-concreto-fundamentos-de-projeto-e-exemplos), pois não tínhamos equipamentos para executar tais peças. 
 
-![Arena das dunas]()
+![Arena das dunas](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula3/Dunas.jpg?raw=true)
 
 2. **Mesmo quando possuímos os equipamentos, é comum que os arquitetos não saibam de sua existência**. Um exemplo disso é a Arena da Amazônia, cuja estrutura metálica, cortada a plasma, também foi importada da Alemanha, embora pudesse ter sido produzida no Brasil, provavelmente porque os arquitetos alemães não tinham conhecimento do parque industrial disponível no país. 
 
-![Arema da Amazonia]()
+![Arema da Amazonia](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula3/amazonia.jpg?raw=true)
 
 Celani ainda fala:
 
@@ -81,7 +81,7 @@ terceira revolução industrial.
 Mas se pararmos e observamos o resto do mundo, nos centros realmente avançados, novos métodos de criação, de representação e de construção são investigatos diariamente. Por exemplo:
 
 1. Equipes multidisciplinares desenvolvem novos métodos matemáticos de descrição de superficies complexas e as diferentes maneiras de subdividi-las e de produzi-las
-2. Conceitos relativos a ciência e a inteligência artificial são apatados para que problemas de projeto e construção seja solucionados. *Ex:fachadas que respondem ao meio ambiente, de modo análogo à pele de um animal
+2. Conceitos relativos a ciência e a inteligência artificial são apatados para que problemas de projeto e construção seja solucionados. _Ex:fachadas que respondem ao meio ambiente, de modo análogo à pele de um animal_
 
 Com isso, uma hipótese pode ser levantada. **Se a formação dos nossos profissionais de construção fosse mais arrojada, poderíamos vislumbrar, a médio e longo prazo, um real avanço em nossa industria da construção e uma retomada com uma participação mais ativa das discussões internacionais**. Para isso, se faz necessário estimular o trabalho o trabalho [interdisciplinar](https://www.significados.com.br/interdisciplinar/) e [transdisciplinar](https://www.dicio.com.br/transdisciplinar/)
 
