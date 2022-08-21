@@ -157,8 +157,7 @@ _____
 
 MSc. Bruno Leão
 
-*Arquiteto e Urbanista
-
-*Mestre e Doutorando
+_Arquiteto e Urbanista_
+_Mestre e Doutorando_
 
 Atualização: 21/08/2022
