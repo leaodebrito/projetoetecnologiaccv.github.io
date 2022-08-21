@@ -1,7 +1,8 @@
 # Uma nova era para a construção civil
 ## Construção Civil e Tecnologia
 
-Neste encontro vou apresentar brevemente, e ainda me maneira um pouco superficial os cenários e possibilidades tecnológicas na Arquitetura e Urbanismo e na Engenharia Civil, ou seja, na construção civil.
+Neste encontro vou apresentar brevemente, e ainda de maneira um pouco superficial, os cenários e possibilidades tecnológicas na Arquitetura e Urbanismo e na Engenharia Civil, ou seja, na construção civil.
+
 
 
 ## Uma nova era para a construção
@@ -46,7 +47,11 @@ Em muitos segmentos da industria, acabamos por continuar dependentes daquilo que
 
 1. Na construção da **Arena das Dunas**, construída em Natal para a Copa do Mundo de 2014, por exemplo, tivemos de importar da Alemanha partes da cobertura metálica que possuíam [dupla curvatura](https://www.archdaily.com.br/br/895363/cascas-de-concreto-fundamentos-de-projeto-e-exemplos), pois não tínhamos equipamentos para executar tais peças. 
 
+![Arena das dunas]()
+
 2. **Mesmo quando possuímos os equipamentos, é comum que os arquitetos não saibam de sua existência**. Um exemplo disso é a Arena da Amazônia, cuja estrutura metálica, cortada a plasma, também foi importada da Alemanha, embora pudesse ter sido produzida no Brasil, provavelmente porque os arquitetos alemães não tinham conhecimento do parque industrial disponível no país. 
+
+![Arema da Amazonia]()
 
 Celani ainda fala:
 
@@ -82,7 +87,7 @@ Com isso, uma hipótese pode ser levantada. **Se a formação dos nossos profiss
 
 Um exemplo interessante disso, é o [Pavilhão de Pesquisa ICD/ITKE 2014-15 / ICD / ITKE Universidade de Stuttgart](https://www.archdaily.com.br/br/794506/pavilhao-de-pesquisa-icd-itke-2014-15-icd-itke-universidade-de-stuttgart)
 
-![ICD]()
+![ICD](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula3/ICD01.jpg?raw=true)
 
 ```
 O trabalho teve início com a participação
@@ -94,15 +99,54 @@ embebidas em resina contra a superfície interna de uma grande
 bolha inflável, resultando em um pequeno pavilhão.
 ```
 
-Esse é um exemplo da aplicação dos conhecimentos de diversos outros campos de estudo. A seguir vou listar alguns exemplos e mostrar sua importância para a construção.
+Esse é um exemplo da aplicação dos conhecimentos de diversos outros campos de estudo. A seguir vou apresentar de o que essas tecnologias ja trazem e podem trazer para a industria da construção
+
+
 
 ## A importância da tecnologia
 
+Fruto principalmente da revolução industrial, a tecnologia na construção faz com que nossos profissionais sejam capaz de elevar a produtividade e a competitividade no setor. **O uso dessas tecnologias vem por meio da incorporação de inovações no dia a dia de todos os atores (Arquitetos, Arquitetas, Engenheiros, Engenheiras, Técnicos....) que atuam nesta industria**, não se limitando a tecnologias de informação e comunicação, mas também a tecnologia dos materiais e de processos.
+
+```
+Em geral, a evolução tecnológica ocorre em resposta à 
+busca por maior produtividade e lucros – 
+objetivos de indústrias de todas as áreas.
+
+Para alcançar tais metas, muitas organizações investem em 
+pesquisa e desenvolvimento, além de se manterem atualizadas 
+sobre os instrumentos e novas teorias disponíveis no mercado.
+```
+
+Alguns exemplos hoje de tecnologias que tem sido implantadas na construção são:
+
+1. **Digital Twins**: 
+Desenvolvidos utilizando ferramentas de modelagem BIM, os _digital twins_ correspondem a representações virtuais de itens reais, sendo criados a partir dos dados desse objeto ou sistema. _Uma de suas grandes vantagens é que esses dados podem ser inspirados em padrões similares para simular o desempenho de uma edificação que está sendo planejada._
+
+
+2. **Impressão 3D**: A impressão 3D, também chamada de fabricação aditiva, é uma família de processos que produz objetos ao adicionar material em camadas que correspondem a seções transversais sucessivas de um modelo 3D. O plástico e as ligas de metal são os materiais mais comumente usados para impressão 3D, mas quase tudo pode ser usado — de concreto a tecido vivo (Autodesk, 2022).
+
+[Ponte impressa em 3D](https://vejasp.abril.com.br/coluna/casa-cor/amsterda-inaugura-a-primeira-ponte-impressa-em-3d-do-mundo/)
+[Prédio de dois andares é a maior obra feita com impressora 3D](https://noticias.r7.com/tecnologia-e-ciencia/videos/predio-de-dois-andares-e-a-maior-obra-feita-com-impressora-3d-14022020)
+
+
+3. **Bioconcreto**: Uma espécie de [concreto](https://exame.com/ciencia/conheca-o-concreto-vivo-que-fecha-suas-proprias-infiltracoes/) que se conserta sozinho utilizando bactérias.
+
+[Bioconcreto](https://www.youtube.com/watch?v=PyBR3PDPa-c&t=13s)
+
+
+4. Realidade Aumentada
+
+5. Inteligência Artificial
 
 
 ## Referências
 
+AUTODESK. **IMPRESSÃO 3D**. 2022. Disponível em: https://www.autodesk.com.br/solutions/3d-printing. Acesso em: 21 ago. 2022.
+
 CELANI, Gabriela. Uma nova era para arquitetura. In: CELANI, Gabriela; SEDREZ, Maycon. **Arquitetura contemporânea e automação**: prática e reflexão. São Paulo: Probooks, 2018. Cap. 1. p. 17-20.
+
+SCHOOL, Fia Bussines. **Tecnologia na Construção Civil**: o que é, importância e exemplos. o que é, importância e exemplos. 2020. Disponível em: https://fia.com.br/blog/tecnologia-na-construcao-civil/. Acesso em: 21 ago. 2022.
+
 
 
 _____
