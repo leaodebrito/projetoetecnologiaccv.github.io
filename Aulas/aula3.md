@@ -119,24 +119,25 @@ sobre os instrumentos e novas teorias disponíveis no mercado.
 
 Alguns exemplos hoje de tecnologias que tem sido implantadas na construção são:
 
-1. **Digital Twins**: 
+a) **Digital Twins**: 
 Desenvolvidos utilizando ferramentas de modelagem BIM, os _digital twins_ correspondem a representações virtuais de itens reais, sendo criados a partir dos dados desse objeto ou sistema. _Uma de suas grandes vantagens é que esses dados podem ser inspirados em padrões similares para simular o desempenho de uma edificação que está sendo planejada._
 
 
-2. **Impressão 3D**: A impressão 3D, também chamada de fabricação aditiva, é uma família de processos que produz objetos ao adicionar material em camadas que correspondem a seções transversais sucessivas de um modelo 3D. O plástico e as ligas de metal são os materiais mais comumente usados para impressão 3D, mas quase tudo pode ser usado — de concreto a tecido vivo (Autodesk, 2022).
+b) **Impressão 3D**: A impressão 3D, também chamada de fabricação aditiva, é uma família de processos que produz objetos ao adicionar material em camadas que correspondem a seções transversais sucessivas de um modelo 3D. O plástico e as ligas de metal são os materiais mais comumente usados para impressão 3D, mas quase tudo pode ser usado — de concreto a tecido vivo (Autodesk, 2022).
 
 [Ponte impressa em 3D](https://vejasp.abril.com.br/coluna/casa-cor/amsterda-inaugura-a-primeira-ponte-impressa-em-3d-do-mundo/)
+
 [Prédio de dois andares é a maior obra feita com impressora 3D](https://noticias.r7.com/tecnologia-e-ciencia/videos/predio-de-dois-andares-e-a-maior-obra-feita-com-impressora-3d-14022020)
 
 
-3. **Bioconcreto**: Uma espécie de [concreto](https://exame.com/ciencia/conheca-o-concreto-vivo-que-fecha-suas-proprias-infiltracoes/) que se conserta sozinho utilizando bactérias.
+c) **Bioconcreto**: Uma espécie de [concreto](https://exame.com/ciencia/conheca-o-concreto-vivo-que-fecha-suas-proprias-infiltracoes/) que se conserta sozinho utilizando bactérias.
 
 [Bioconcreto](https://www.youtube.com/watch?v=PyBR3PDPa-c&t=13s)
 
 
-4. Realidade Aumentada
+d) Realidade Aumentada
 
-5. Inteligência Artificial
+e) Inteligência Artificial
 
 
 ## Referências
