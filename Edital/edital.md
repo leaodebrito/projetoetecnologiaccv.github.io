@@ -61,7 +61,9 @@ Os clientes para este trabalho são:
     
     Contato: Marianna Luna
 
-3. (em definição...)
+3. RTEC - Tecnologia em Revestimentos
+    
+    Contato: Samara Queiroz
 
 
 4. (em definição...)
