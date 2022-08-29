@@ -57,13 +57,18 @@ Os clientes para este trabalho são:
     
     Contato: Moisés Ferreira
     
+    Equipe: PIB Engenharia
+    
 2. LEDE - Laboratório de Estruturas e Desempenho das Edificações
     
     Contato: Marianna Luna
+    
+    Equipe: Mr BIM
 
 3. RTEC - Tecnologia em Revestimentos
     
     Contato: Samara Queiroz
+
 
 
 4. ConstruBud - Estimativas para construção
