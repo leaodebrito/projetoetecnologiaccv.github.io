@@ -59,21 +59,30 @@ Os clientes para este trabalho são:
     
     Equipe: PIB Engenharia
     
+    
+    
 2. LEDE - Laboratório de Estruturas e Desempenho das Edificações
     
     Contato: Marianna Luna
     
     Equipe: Mr BIM
+    
+    
 
 3. RTEC - Tecnologia em Revestimentos
     
     Contato: Samara Queiroz
-
+    
+    Equipe: Sexteto
+    
 
 
 4. ConstruBud - Estimativas para construção
     
     Contato: Pedro Henrique Ramos
+    
+    Equipe: Rockita's Company
+    
 
 
 ## Processo de Avaliação
@@ -84,4 +93,4 @@ As etapas do trabalho acima descritas serão avaliados conforme barema específi
 
 # Docente
 Prof. Bruno Leão
-atualização: 19/08/2022
+atualização: 29/08/2022
