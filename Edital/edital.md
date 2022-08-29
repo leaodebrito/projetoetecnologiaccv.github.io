@@ -66,7 +66,9 @@ Os clientes para este trabalho são:
     Contato: Samara Queiroz
 
 
-4. (em definição...)
+4. ConstruBud - Estimativas para construção
+    
+    Contato: Pedro Henrique Ramos
 
 
 ## Processo de Avaliação
