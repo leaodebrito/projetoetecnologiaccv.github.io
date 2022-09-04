@@ -7,7 +7,7 @@ Neste encontro vou apresentar brevemente, e ainda de maneira um pouco superficia
 
 ## Uma nova era para a construção
 
-A Arquitetura e Urbanismo viveram momentos de glória no século XX:
+A Arquitetura e Urbanismo e a Engenharia Civil viveram momentos de glória no século XX:
 
 1. Criamos, projetamos e construimos uma [cidade toda planejada](https://pt.wikipedia.org/wiki/Bras%C3%ADlia)
 
