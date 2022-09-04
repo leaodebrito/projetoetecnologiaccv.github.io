@@ -17,7 +17,7 @@ de um objeto que na realidade não está presente nos sentidos
 O substantivo feminino ideia se refere a uma **representação mental de alguma coisa**: um conceito, um pensamento, uma noção, uma concepção, uma opinião...Indica também um propósito, uma fantasia ou uma possível solução.
 
 
-![Ideia]()
+![Ideia](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula4/ideia.jpg?raw=true)
 
 
 
@@ -29,7 +29,7 @@ Existem várias definições diferentes para criatividade. Criatividade pode ser
 2. "criatividade representa a emergência de algo único e original";[3]
 3. "criatividade é o processo de tornar-se sensível a problemas, deficiências, lacunas no conhecimento, desarmonia; identificar a dificuldade, buscar soluções, formulando hipóteses a respeito das deficiências; testar e retestar estas hipóteses; e, finalmente, comunicar os resultados";[4]
 
-![Criatividade]()
+![Criatividade](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula4/criatividade.jpg?raw=true)
 
 
 
@@ -39,7 +39,7 @@ Uma pesquisa e/ou investigação é um processo sistemático para a construç
 
 Alcança resultados tanto para o indivíduo ou grupo de indivíduos que a realiza quanto para a sociedade na qual esta se desenvolve.
 
-![Criatividade]()
+![Pesquisa](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula4/pesquisa.jpg?raw=true)
 
 
 
@@ -63,32 +63,32 @@ A palavra é derivada do termo latino _innovatio_, e se refere a uma ideia, mét
 Hoje, a palavra "inovação" é mais usada no contexto de ideias e invenções assim como a exploração econômica relacionada, sendo que inovação é invenção que chega no mercado. Inovação também pode ser entendido como **o processo que inclui as atividades técnicas, concepção, desenvolvimento, gestão e que resulta na comercialização de novos (ou melhorados) produtos, ou na primeira utilização de novos (ou melhorados) processos.
 
 
-![Inovação]()
+![Inovação](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula4/inovacao.png?raw=true)
 
 [O Caso Kodak](https://www.youtube.com/watch?v=6I5dxztwDJ0) <---clica no link!
-![Kodak]()
+![Kodak](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula4/kodak.png?raw=true)
 
 
 
 Isso é inovação??
 
-![Inovação2]()
+![Inovação2](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula4/inovacao2.png?raw=true)
 
-![Inovação3]()
+![Inovação3](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula4/inovacao3.png?raw=true)
 
 
 No fundo, no fundo, inovação é transformar uma ideia em rentabilidade (dinheiro, para os mais íntimos)
 
-![Inovação4]()
+![Inovação4](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula4/inovacao4.jpg?raw=true)
 
 
 Até porque a sociedade saiu disso:
 
-![Inovação5]()
+![Inovação5](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula4/inovacao5.png?raw=true)
 
 Para isso:
 
-![Inovação6]()
+![Inovação6](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula4/Inovacao6.png?raw=true)
 
 
 [Evolução das mesas de trabalho](https://www.youtube.com/watch?v=uGI00HV7Cfw) <--- clica no link!!
@@ -107,7 +107,7 @@ Esses dados acima trazem alguns outros questionamentos e pontos que devem ser ob
 2. Falta de mão-de-obra qualificada
 3. Redução da necessidade de mão-de-obra pela inserção de robôs nos processos
 
-![Impactos]()
+![Impactos](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula4/impactos.png?raw=true)
 
 
 ## Construção 4.0
@@ -116,17 +116,17 @@ Também na cadeia produtiva da construção civil, a Indústria 4.0 desponta com
 Esse movimento começa com tecnologias que já são realidade em alguns países. É o caso, por exemplo, de drones para monitoramento das obras, caminhões autônomos em áreas de mineração e robôs de demolição.
 A 4a revolução industrial também confere maior protagonismo ao BIM (Building Information Modeling ou Modelagem da Informação da Construção), à manufatura aditiva (impressoras 3D), à  realidade aumentada e à análise de Big Data.
 
-![Construcao]()
+![Construcao](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula4/construcao.png?raw=true)
 
 Vídeo: [The next manufacturing revolution is here](https://www.youtube.com/watch?v=AyWtIwwEgS0)
 
 
-![Construcao2]()
+![Construcao2](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula4/construcao2.png?raw=true)
 
 
 E nos, profissionais da construção, ja estamos neste caminho
 
-![Construção 3]()
+![Construção 3](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula4/construcao3.png?raw=true)
 
 
 ## Importância da Inovação
@@ -137,15 +137,17 @@ E nos, profissionais da construção, ja estamos neste caminho
 4. Não é apenas criar novos produtos ou serviços. 
 5. Inovação é fazer alguma coisa diferente buscando sinergias e criação de valor para as pessoas a quem você serve.
 
-![beneficio]()
+![beneficio](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula4/beneficio.png?raw=true)
 
 
 
 ## Espelho da Inovação
 
-![Espelho]()
+![Espelho](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula4/espelho2.jpg?raw=true)
 
-![Espelho2]()
+![Espelho2](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula4/espelho3.png?raw=true)
+
+![Espelho3](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula4/Espelho.png?raw=true)
 
 
 Só que ao contrário do que se pensa, o mundo está mudando e precisamos de tempo para pensar...
