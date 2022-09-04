@@ -164,7 +164,11 @@ E assim surge o questionamento **As instituições conseguem manter-se competiti
 
 ## Referências
 [Ideia - Enciclopédia Britanica](https://www.britannica.com/topic/idea)
+
 [Inovação](https://pt.wikipedia.org/wiki/Criatividade)
+
 [Criatividade](https://pt.wikipedia.org/wiki/Inovação#cite_note-3)
+
 [Tecmundo](https://www.youtube.com/c/tecmundo)
+
 [Construção 4.0: como esse conceito vai revolucionar o setor](https://www.sienge.com.br/blog/construcao-4-0/)
