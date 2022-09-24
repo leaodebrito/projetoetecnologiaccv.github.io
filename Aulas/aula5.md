@@ -62,7 +62,7 @@ Por sua vez, o Lean construction também faz uso dos principios da produção en
 Algumas [ferramentas](https://www.totvs.com/blog/gestao-industrial/ferramentas-de-lean-manufacturing/) utilizadas no processo Lean são:
 
 
-**1. 5S: **
+**1. 5S:**
 
 O 5S é uma ferramenta baseada em cinco processos simples. Ela vai medir a qualidade da produção e focar na mobilização de toda a companhia de forma lógica.
 
@@ -76,7 +76,7 @@ Os 5S envolvem os seguintes termos:
 
 
 
-**2. Jidoka: **
+**2. Jidoka:**
 
 controle de qualidade. A ideia é que um operário cuide de várias máquinas ao mesmo tempo, reduzindo assim o número de pessoas e aumentando a capacidade de produção.
 
@@ -88,7 +88,7 @@ controle de qualidade. A ideia é que um operário cuide de várias máquinas ao
 
 
 
-**4. Kanban: **
+**4. Kanban:**
 
 Parte essencial do JIT, o Kanban é um sistema que busca a eficiência na fabricação. Por meio de cartões coloridos e de tamanhos diferentes, é possível organizar e direcionar toda a produção para a conclusão das tarefas e demandas.
 
