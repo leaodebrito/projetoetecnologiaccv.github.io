@@ -61,20 +61,37 @@ Por sua vez, o Lean construction também faz uso dos principios da produção en
 
 Algumas [ferramentas](https://www.totvs.com/blog/gestao-industrial/ferramentas-de-lean-manufacturing/) utilizadas no processo Lean são:
 
+
 **1. 5S: **
+
+O 5S é uma ferramenta baseada em cinco processos simples. Ela vai medir a qualidade da produção e focar na mobilização de toda a companhia de forma lógica.
+
+Os 5S envolvem os seguintes termos:
+
+    Seiri: evitar o desperdício de recursos e a falta de espaço;
+    Seiton: organizar todo o espaço de trabalho para que a produção seja mais efetiva;
+    Seiso: trabalhar para que todo o ambiente fique livre e limpo;
+    Seiketsu: determinar as normas de triagem, arrumação e limpeza que vão facilitar a ergonomia e a saúde da fábrica;
+    Shitsuke: serve para encorajar os seus colaboradores e manter todos ajudando.
+
+
 
 **2. Jidoka: **
 
 controle de qualidade. A ideia é que um operário cuide de várias máquinas ao mesmo tempo, reduzindo assim o número de pessoas e aumentando a capacidade de produção.
+
+
 
 **3. Just in Time:**
 
  O Just in Time é uma ferramenta que foca em otimizar a produção. Ou seja, evitar que haja excessos na fabricação que vão deixar o estoque cheio e atrapalhar o desenvolvimento da fábrica.
 
 
+
 **4. Kanban: **
 
 Parte essencial do JIT, o Kanban é um sistema que busca a eficiência na fabricação. Por meio de cartões coloridos e de tamanhos diferentes, é possível organizar e direcionar toda a produção para a conclusão das tarefas e demandas.
+
 
 
 **5. Kaizen**
@@ -87,7 +104,7 @@ O Kaizen prega que, para você melhorar a sua produtividade, não precisa fazer 
 Além de outros como: PDCA, TPM, Heijunka, Andon, KPI's, SMED....
 
 
-## IPD e tecnologia ]
+## IPD e tecnologia
 
 Projetos integrados geralmente contam com **tecnologias de ponta**. As tecnologias são especificadas no início do projeto para maximizar a funcionalidade, generalidade e interoperabilidade. 
 
@@ -98,7 +115,7 @@ Vale pontuar duas coisas sobre essas tecnologias
 2. Como os padrões abertos permitem melhor as comunicações entre todos os participantes, a tecnologia compatível com os padrões abertos é usada sempre que disponível.
 
 
-
+______
 
 ## Referências
 
