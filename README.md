@@ -24,7 +24,7 @@ _____
 
 [Aula 4 - Indústria: Criatividade, Pesquisa e Inovação](./Aulas/aula4.md)
 
-
+[Aula 5 - IPD: Integrated Project Delivery](./Aulas/aula5.md)
 
 _____
 

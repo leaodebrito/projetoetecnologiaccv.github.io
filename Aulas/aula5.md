@@ -22,3 +22,7 @@ O IPD foi desenvolvido pelo [AIA](https://www.aia.org) (_American Institute of A
 
 
 **Utiliza princípios de gestão para integração de pessoas, sistemas, estruturas de negócios e praticas profissionais em um processo colaborativo, a fim de aprimorar todas as fases e necessidades do empreendimento.**
+
+
+O IPD procura superar sistematicamente os problemas relacionados as questões organizacionais e comercias, pouco foca em questões operacionais. E acaba por considerar Considera a utilização do **Lean Desgin e Lean Construction**
+
