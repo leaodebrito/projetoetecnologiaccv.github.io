@@ -1,4 +1,4 @@
-# IPD - Integrated Project Delivery
+# IPD e Lean Design
 
 O IPD é um modelo de gestão de empreendimento que se desenvolve com contratos transacionais e/ou relacionais.
 
@@ -24,5 +24,76 @@ O IPD foi desenvolvido pelo [AIA](https://www.aia.org) (_American Institute of A
 **Utiliza princípios de gestão para integração de pessoas, sistemas, estruturas de negócios e praticas profissionais em um processo colaborativo, a fim de aprimorar todas as fases e necessidades do empreendimento.**
 
 
-O IPD procura superar sistematicamente os problemas relacionados as questões organizacionais e comercias, pouco foca em questões operacionais. E acaba por considerar Considera a utilização do **Lean Desgin e Lean Construction**
+![IPD 1]()
 
+
+O IPD procura superar sistematicamente os problemas relacionados as questões organizacionais e comercias, pouco foca em questões operacionais. E acaba por considerar a utilização do [Lean Design](https://www.youtube.com/watch?v=aBNwFb0ou8c) e [Lean Construction](https://www.youtube.com/watch?v=iETiCQ4eiiA)
+
+
+
+## Lean Design e Lean Construction
+
+_Lean design_ é a aplicação dos princípios do _Lean Production_ para promover a eliminação de perdas er atividades que não agregam valor no processo de projeto.
+
+Esta metodologia acaba por descrever o processo de projeto em três níveis
+
+1. Conversão
+2. Fluxo
+3. Geração de valor
+
+![Lean Design 1]()
+
+Conceituar o processo de projeto como um fluxo de informações se presta a **reduzir o desperdício, minimizando a quantidade de tempo antes que a informação seja usada**, por exemplo:
+
+1.Redução do tempo gasto na inspeção de informações para conformidade com os requisitos;
+2. Redução do tempo gasto retrabalhando as informações para alcançar a conformidade; e 
+3. Redução do tempo gasto mover informações de um colaborador de design para outro. 
+
+Além disso, e ainda mais importante do que reduzir o custo e o tempo de projeto, conceituar o processo de projeto como um fluxo de informações permite a **coordenação de fluxos interdependentes e a integração do projeto com o fornecimento e a construção do local**.
+
+
+```
+O design enxuto incorpora as visões de fluxo e valor, em contraste com a visão tradicional do modelo de conversão.
+```
+
+
+Por sua vez, o Lean construction também faz uso dos principios da produção enxuta mas com um foco para a cadeia produtiva da construção, ou seja, a **construção**.
+
+Algumas [ferramentas](https://www.totvs.com/blog/gestao-industrial/ferramentas-de-lean-manufacturing/) utilizadas no processo Lean são:
+
+**1. 5S: **
+
+**2. Jidoka: **
+
+controle de qualidade. A ideia é que um operário cuide de várias máquinas ao mesmo tempo, reduzindo assim o número de pessoas e aumentando a capacidade de produção.
+
+**3. Just in Time:**
+
+ O Just in Time é uma ferramenta que foca em otimizar a produção. Ou seja, evitar que haja excessos na fabricação que vão deixar o estoque cheio e atrapalhar o desenvolvimento da fábrica.
+
+
+**4. Kanban: **
+
+Parte essencial do JIT, o Kanban é um sistema que busca a eficiência na fabricação. Por meio de cartões coloridos e de tamanhos diferentes, é possível organizar e direcionar toda a produção para a conclusão das tarefas e demandas.
+
+
+**5. Kaizen**
+
+Essa é uma ferramenta focada na qualidade do trabalho. O objetivo é mostrar que todos os funcionários de um determinado local devem se esforçar e trabalhar para reduzir os custos, o desperdício e focar no aumento do lucro.
+
+O Kaizen prega que, para você melhorar a sua produtividade, não precisa fazer grandes investimentos. Basta incentivar os seus colaboradores para que eles se sintam envolvidos com toda a linha de produção.
+
+
+Além de outros como: PDCA, TPM, Heijunka, Andon, KPI's, SMED....
+
+
+## IPD e tecnologia 
+
+
+
+
+## Referências
+
+[Achieving Lean Design Process: Improvement Methodology](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.455.8122&rep=rep1&type=pdf)
+
+[Conheça 11 ferramentas de lean manufacturing](https://www.totvs.com/blog/gestao-industrial/ferramentas-de-lean-manufacturing/)
