@@ -87,7 +87,15 @@ O Kaizen prega que, para você melhorar a sua produtividade, não precisa fazer 
 Além de outros como: PDCA, TPM, Heijunka, Andon, KPI's, SMED....
 
 
-## IPD e tecnologia 
+## IPD e tecnologia ]
+
+Projetos integrados geralmente contam com **tecnologias de ponta**. As tecnologias são especificadas no início do projeto para maximizar a funcionalidade, generalidade e interoperabilidade. 
+
+Vale pontuar duas coisas sobre essas tecnologias
+
+1. Trocas de dados abertas e interoperáveis baseadas em estruturas de dados disciplinadas e transparentes são essenciais para dar suporte ao IPD. 
+
+2. Como os padrões abertos permitem melhor as comunicações entre todos os participantes, a tecnologia compatível com os padrões abertos é usada sempre que disponível.
 
 
 
@@ -97,3 +105,5 @@ Além de outros como: PDCA, TPM, Heijunka, Andon, KPI's, SMED....
 [Achieving Lean Design Process: Improvement Methodology](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.455.8122&rep=rep1&type=pdf)
 
 [Conheça 11 ferramentas de lean manufacturing](https://www.totvs.com/blog/gestao-industrial/ferramentas-de-lean-manufacturing/)
+
+[Integrated Project Delivery: A Guide](https://zdassets.aiacontracts.org/ctrzdweb02/zdpdfs/ipd_guide.pdf)
