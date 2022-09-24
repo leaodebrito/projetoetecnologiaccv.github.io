@@ -24,7 +24,7 @@ O IPD foi desenvolvido pelo [AIA](https://www.aia.org) (_American Institute of A
 **Utiliza princípios de gestão para integração de pessoas, sistemas, estruturas de negócios e praticas profissionais em um processo colaborativo, a fim de aprimorar todas as fases e necessidades do empreendimento.**
 
 
-![IPD 1]()
+![IPD 1](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula5/ipd1.png?raw=true)
 
 
 O IPD procura superar sistematicamente os problemas relacionados as questões organizacionais e comercias, pouco foca em questões operacionais. E acaba por considerar a utilização do [Lean Design](https://www.youtube.com/watch?v=aBNwFb0ou8c) e [Lean Construction](https://www.youtube.com/watch?v=iETiCQ4eiiA)
@@ -41,7 +41,7 @@ Esta metodologia acaba por descrever o processo de projeto em três níveis
 2. Fluxo
 3. Geração de valor
 
-![Lean Design 1]()
+![Lean Design 1](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula5/leandesign1.png?raw=true)
 
 Conceituar o processo de projeto como um fluxo de informações se presta a **reduzir o desperdício, minimizando a quantidade de tempo antes que a informação seja usada**, por exemplo:
 
