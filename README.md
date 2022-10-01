@@ -26,6 +26,8 @@ _____
 
 [Aula 5 - IPD: Integrated Project Delivery](./Aulas/aula5.md)
 
+[Aula 6 - IoT: Internet das Coisas](./Aulas/iot.md)
+
 _____
 
 
