@@ -28,14 +28,8 @@ _____
 
 [Aula 6 - IoT: Internet das Coisas](./Aulas/iot.md)
 
-_____
-
-
-
-## Editais
-[Edital de trabalho](./Edital/edital.md)
+[Aula 7 - Inteligência Artificial e Construção Civil](./Aulas/aula7.md)
 
 _____
-
 
 
