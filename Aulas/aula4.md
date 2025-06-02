@@ -111,10 +111,9 @@ Esses dados acima trazem alguns outros questionamentos e pontos que devem ser ob
 
 
 ## Construção 4.0
-
-Também na cadeia produtiva da construção civil, a Indústria 4.0 desponta como caminho natural para aumentar competitividade, produtividade, redução de custos. Sempre por meio das tecnologias digitais.
-Esse movimento começa com tecnologias que já são realidade em alguns países. É o caso, por exemplo, de drones para monitoramento das obras, caminhões autônomos em áreas de mineração e robôs de demolição.
-A 4a revolução industrial também confere maior protagonismo ao BIM (Building Information Modeling ou Modelagem da Informação da Construção), à manufatura aditiva (impressoras 3D), à  realidade aumentada e à análise de Big Data.
+Também na cadeia produtiva da construção civil, a Indústria 4.0 desponta como caminho natural para aumentar competitividade, produtividade, redução de custos. Sempre por meio das tecnologias digitais e, cada vez mais, da inteligência artificial.
+Esse movimento começa com tecnologias que já são realidade em alguns países. É o caso, por exemplo, de drones para monitoramento das obras, caminhões autônomos em áreas de mineração e robôs de demolição controlados por sistemas inteligentes.
+A 4a revolução industrial também confere maior protagonismo ao BIM (Building Information Modeling ou Modelagem da Informação da Construção) no seu sentido mais amplo, à manufatura aditiva (impressoras 3D), à realidade aumentada e à análise de Big Data. A inteligência artificial tem papel fundamental nesse cenário, permitindo a otimização de processos, previsão de riscos, automação de tarefas repetitivas e tomada de decisões baseada em dados, revolucionando a forma como projetamos e construímos.
 
 ![Construcao](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula4/construcao.png?raw=true)
 
@@ -127,6 +126,9 @@ Vídeo: [The next manufacturing revolution is here](https://www.youtube.com/watc
 E nos, profissionais da construção, ja estamos neste caminho
 
 ![Construção 3](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula4/construcao3.png?raw=true)
+
+
+
 
 
 ## Importância da Inovação
@@ -172,3 +174,14 @@ E assim surge o questionamento **As instituições conseguem manter-se competiti
 [Tecmundo](https://www.youtube.com/c/tecmundo)
 
 [Construção 4.0: como esse conceito vai revolucionar o setor](https://www.sienge.com.br/blog/construcao-4-0/)
+
+
+___ 
+
+# Mantido e desenvolvido por
+
+MSc. Bruno Leão
+
+_Arquiteto e Urbanista, Mestre e Doutorando_
+
+Atualização: 02/06/2025

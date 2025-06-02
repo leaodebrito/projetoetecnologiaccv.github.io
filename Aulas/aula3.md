@@ -139,6 +139,15 @@ d) Realidade Aumentada
 
 e) Inteligência Artificial
 
+A Inteligência Artificial (IA) representa uma das maiores inovações tecnológicas da atualidade, permitindo que máquinas aprendam, analisem grandes volumes de dados e tomem decisões de forma autônoma. Na construção civil, a IA tem potencial para transformar processos, aumentar a eficiência, reduzir custos e promover maior segurança nos canteiros de obras.
+
+Exemplos de aplicação de IA na construção:
+- **Análise preditiva de manutenção:** Sensores instalados em equipamentos e estruturas coletam dados em tempo real, permitindo que algoritmos de IA prevejam falhas e indiquem o momento ideal para manutenção, evitando paradas inesperadas.
+- **Gestão de canteiro de obras:** Sistemas inteligentes analisam o fluxo de pessoas, máquinas e materiais, otimizando o cronograma e a logística da obra.
+- **Reconhecimento de imagens:** Drones e câmeras capturam imagens do canteiro, e algoritmos de IA identificam riscos de segurança, progresso da obra e possíveis desvios em relação ao projeto.
+- **Projetos generativos:** Softwares baseados em IA sugerem soluções de projeto arquitetônico e estrutural, considerando milhares de variáveis para encontrar alternativas mais eficientes e inovadoras.
+- **Orçamentação automatizada:** Ferramentas de IA analisam projetos e especificações para gerar orçamentos detalhados de forma rápida e precisa.
+
 
 ## Referências
 
@@ -159,4 +168,4 @@ MSc. Bruno Leão
 
 _Arquiteto e Urbanista, Mestre e Doutorando_
 
-Atualização: 21/08/2022
+Atualização: 02/06/2025

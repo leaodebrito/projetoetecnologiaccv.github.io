@@ -2,35 +2,23 @@
 
 ## Nossa Disciplina
 ### Ementa
-Nesta disciplina serão abordados meios de planejamento de processos para projetos da construção com uso de tecnologias de informação e como a construção vem se adaptando no contexto da revolução industrial. Serão discutidas possibilidades de organização de equipes multidisciplinares e estado da arte de tecnologias e sistemas de informação.
+Nesta disciplina serão abordados conceitos fundamentais de tecnologia e inovação, explorando como as novas tecnologias impactam diferentes setores e promovem transformações sociais, econômicas e culturais. Serão discutidas tendências, ferramentas digitais, metodologias inovadoras e o papel das equipes multidisciplinares no desenvolvimento de soluções inovadoras.
 
 ### Competências que vamos Desenvolver
-Competência gerais:
-1. Conhecimentos específicos de Engenharia e Arquitetura
-2. Pensamento Sistêmico
-3. Compartilhar conhecimento
-4. Comunicação
+Competências gerais:
+1. Pensamento crítico e inovador
+2. Capacidade de análise de cenários tecnológicos
+3. Colaboração e trabalho em equipe
+4. Comunicação eficaz
 
 Competências Específicas:
-1. Entender os conceitos relativos as tecnologias digitais na industria da construção
-2. Analisar cenários e usos de tecnologias digitais nos processos de construção
-3. Analisar aplicações de tecnologias de manufatura na industria da construção
-
-## Sistemas de Avaliações
-Nesta disciplina existirão quatro avaliações AV1, AV2, AV3 e EDAG.Cada uma delas com seu respectivo peso e consequente participação na média final da disciplina. As avaliações acontecerão segundo edital específico e seguindo as seguintes datas:
-
-1. AV1 - 19 de setembro - 25% da nota
-2. AV2 - 31 de outubro - 25% da nota
-3. AV3 - 05 de dezembro - 30% da nota
-4. EDAG - XX de novembro - 20% da nota
-
-Se o(a) estudante faltar em alguma destas avaliações, poderá realizar a **segunda chamada unificada no dia 12/12 as 8h** desde que respeite as restrições específicas para realização da prova. Além disso, esta avaliação unificada irá cobrar todo conteúdo formativo que foi apresentado ao longo do semestre.
+1. Compreender conceitos e tendências em tecnologia e inovação
+2. Analisar impactos das tecnologias emergentes em diferentes contextos
+3. Propor soluções inovadoras para desafios contemporâneos
 
 ## Cronograma de aulas
-Nossa disciplina seguirá o cronograma abaixo.
-
-![Planejamento](https://github.com/leaodebrito/projetoetecnologiaccv.github.io/blob/main/Aulas/aula1/planejamento.png?raw=true)
+Nossa disciplina seguirá um cronograma flexível, adaptando-se às necessidades e interesses da turma, com atividades práticas, discussões e estudos de caso.
 
 ## Minha Biblioteca
-Você pode verificar o [Acervo](https://bit.ly/BibSENAI)  do CIMATEC através da internet. Além disso é possível fazer [Reservas e Renovações](https://bit.ly/PergamunFIEB)
+Você pode acessar materiais de apoio, artigos e livros digitais recomendados pelo(a) professor(a) ao longo do semestre. Fique atento(a) às indicações e utilize os recursos disponíveis para aprofundar seus conhecimentos.
 
